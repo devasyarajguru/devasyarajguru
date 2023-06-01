@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajgurudevasya" target="blank"><img src="https://img.shields.io/twitter/follow/rajgurudevasya?logo=twitter&style=for-the-badge" alt="rajgurudevasya" /></a> </p>
 
-<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
