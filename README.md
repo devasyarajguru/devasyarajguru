@@ -49,6 +49,9 @@
     <summary><h3> 👨‍💻 OPEN SOURCE CONTRIBUTIONS</h3>
   <h2>Check out my open source insights at open-sauced 👉 https://insights.opensauced.pizza/user/devasyarajguru</h2>
      </summary>
+  <div>
+    <h2>Check out my blogs on Hashnode 👉 https://hashnode.com/@devasya23rajguru</h2>
+  </div>
 </details>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devasyarajguru&show_icons=true&locale=en&layout=compact" alt="devasyarajguru" /></p>
 
