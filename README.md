@@ -5,7 +5,7 @@
 
 <img src = 'https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966' width='970px' height='500px'/>
 
-<h3 align="center">Hey it's me Devasya Rajguru. I have a keen interest in Web development and have a huge fascination in Open Source and technology.</h3>
+<h3 align="center">Hey it's me Devasya Rajguru. I have a keen interest in Frontend development and have a huge fascination in Open Source and Freelancing.</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devasyarajguru&label=Profile%20views&color=0e75b6&style=flat" alt="devasyarajguru" /> </p>
 
