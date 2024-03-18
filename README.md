@@ -20,7 +20,9 @@
 
 - 🏆 I’m **National Hackathon Winner 2023**
 
-- 🌱 I’m currently learning **React*
+- 🌐 I’m  currently a **Freelancer**
+
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
@@ -48,16 +50,12 @@
 
 | Category        | Skills        |
 |-----------------|---------------|
-| **Programming Languages**       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge" /> |
-| **Web Development** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" />  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=for-the-badge" /> <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge" /> |
-| **Tools & Project Management** | <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" /> <img src="https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=for-the-badge" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
-| **Miscellaneous** | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=for-the-badge" /> |
+| **Programming Languages**       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> |
+| **Web Development** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" />   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge" /> |
+| **Tools & Project Management** | <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> |
 
 <!--------------------------- Lanyard Profile--------------------------------->
 
-<div align="center">        
-    <a href="https://discord.com/users/916597112882495510"><img src="https://lanyard.cnrad.dev/api/916597112882495510" /></a>
-</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />        
 <!------------------------------------------TESTIMONIALS----------------------------------------------->
@@ -70,11 +68,11 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>Ishika Goyal</td>
+    <td>Daniel Worthingon</td>
     <td>Gurjeet Singh Virdee is inspiring , good mentor,  adviser and understanding friend. He continuously helping me in learning the open source contribution. I truly appreciate everything he have done for me so far and hope to continue learning from him.</td>
   </tr>
   <tr>
-    <td>Utkarsh Saxena</td>
+    <td>Dev Shinde</td>
     <td>I have worked with Gurjeet on a project and he has been very kind to me. Since I am from the Android domain he explained the web concepts to me in an easy way. He is also the collaborator of my Two Repos : Leetcode Grind and Eazy Android and is always kind to the new contributors and helps them to do their best. Looking forward to working with him more and enhancing this journey of Tech and Open Source.</td>
   </tr>
 </table>
