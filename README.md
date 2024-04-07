@@ -67,11 +67,11 @@
   </tr>
   <tr>
     <td>Daniel Worthingon</td>
-    <td>Gurjeet Singh Virdee is inspiring , good mentor,  adviser and understanding friend. He continuously helping me in learning the open source contribution. I truly appreciate everything he have done for me so far and hope to continue learning from him.</td>
+    <td>Devasya was one of the first people to join our creator spotlight program at MightyMeld and I enjoyed working with him on it very much. He was kind, helpful, and flexible with scheduling. More importantly, we learned an amazing amount from the work that he did building out a React project using MightyMeld. His feedback was invaluable to planning our next steps. I can also say from having watched him at work that he is a skilled React and Tailwind CSS developer.</td>
   </tr>
   <tr>
     <td>Dev Shinde</td>
-    <td>I have worked with Gurjeet on a project and he has been very kind to me. Since I am from the Android domain he explained the web concepts to me in an easy way. He is also the collaborator of my Two Repos : Leetcode Grind and Eazy Android and is always kind to the new contributors and helps them to do their best. Looking forward to working with him more and enhancing this journey of Tech and Open Source.</td>
+    <td></td>
   </tr>
 </table>
 
