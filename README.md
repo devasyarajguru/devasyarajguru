@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Fronetend,Git & Github,OpenSource,Freelancing**
 
-- 📫 How to reach me **devasya23tech@gmail.com**
+- 📫 How to reach me **devasya23work@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
