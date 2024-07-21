@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td>Dev Shinde</td>
-    <td></td>
+    <td>I am writing to highly recommend Devasya Rajguru as an exceptional front-end developer. Having worked closely with him on various projects, including our victorious collaboration in the NIH Hackathon Winner'23, I can confidently say that Devasya stands out in the field of front-end development. His expertise in front-end technologies is unparalleled, consistently delivering high-quality, user-friendly interfaces that exceed expectations. He is not only proficient in the latest front-end frameworks and tools but also demonstrates a keen eye for design and user experience.Devasya Rajguru is undoubtedly one of the best front-end developers I know in the market, and I have no doubt that he will continue to excel and make significant contributions in any role he undertakes.</td>
   </tr>
 </table>
 
