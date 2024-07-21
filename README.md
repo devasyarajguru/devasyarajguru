@@ -81,7 +81,7 @@
 <!--Open Source Contributions-->
 <details>
     <summary><h3> 👨‍💻 OPEN SOURCE CONTRIBUTIONS</h3>
-  <h2>Check out my open source insights at open-sauced 👉 https://docs.google.com/document/d/1sHPYYNM7JvwbiucgGsLXLond2fFQR7FJ/edit?usp=drive_link&ouid=117494262546951367342&rtpof=true&sd=true </h2>
+  <h2>Check out my open source insights 👉 https://docs.google.com/document/d/1sHPYYNM7JvwbiucgGsLXLond2fFQR7FJ/edit?usp=drive_link&ouid=117494262546951367342&rtpof=true&sd=true </h2>
      </summary>
  </details>
  
