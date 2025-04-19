@@ -76,8 +76,8 @@
 
 ## 🚀 Pinned Projects
 
-| Project | Description | Live | Stars |
-|--------|-------------|------|-------|
+| Project | Description | Live | 
+|--------|-------------|------|
 | [Legal Justice ](https://github.com/devasyarajguru/Legal-Justice-NIH-Hackathon-) | Hackathon Winner Project (NIH'23) | [Live](https://legal-justice-project.vercel.app) |
 | [Mightymeld Portfolio ](https://github.com/devasyarajguru/MightyMeld-Portfolio.git) | Freelance | [Live](https://mightymeld-portfolio.vercel.app/) 
 | [CyberSecurity Website ](https://github.com/devasyarajguru/Duradars-website.git) | Freelance | [Live](https://duradars.vercel.app/) 
