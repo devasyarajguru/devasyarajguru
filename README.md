@@ -35,14 +35,14 @@
 ### 🖥️ Backend 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+
+### Tools & Hosting
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
-### Tools & Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
-![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ---
 
@@ -76,7 +76,7 @@
 
 ## 🚀 Pinned Projects
 
-| Project | Description | Live | Stars |
+| Project | Description | Live |
 |--------|-------------|------|-------|
 | [Legal Justice ](https://github.com/devasyarajguru/Legal-Justice-NIH-Hackathon-) | Hackathon Winner Project (NIH'23) | [Live](https://legal-justice-project.vercel.app) |
 | [Mightymeld Portfolio ](https://github.com/devasyarajguru/MightyMeld-Portfolio.git) | Freelance | [Live](https://mightymeld-portfolio.vercel.app/) 
