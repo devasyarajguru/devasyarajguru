@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Devasya Rajguru 👋</h1>
 
 <p align="center">
-  🚀 Frontend Developer • 🏆 Hackathon Winner • 💻 Open Source Contributor
+  Frontend Developer • 🏆 Hackathon Winner • 💻 Open Source Contributor
 </p>
 
 <p align="center">
@@ -28,22 +28,21 @@
 
 ### 💡 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### 🖥️ Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+### 🖥️ Backend 
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-### ☁️ DevOps & Hosting
+### Tools & Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -71,8 +70,7 @@
 ## 👨‍💻 Open Source Contributions
 
 - ✅ Contributed to multiple projects as part of **GirlScript Summer of Code 2023**
-- 🧠 Made PRs to [facebook/react](https://github.com/facebook/react) and other React-based repos
-- 🔗 [See My Open Source Work](https://docs.google.com/document/d/1sHPYYNM7JvwbiucgGsLXLond2fFQR7FJ)
+- 🔗 [See My Open Source Work](https://docs.google.com/document/d/1X6efkVlo_rCuLDI_EQOOUmMaz0e36RqjQQNiK3h9j1Q/edit?usp=sharing)
 
 ---
 
@@ -80,9 +78,9 @@
 
 | Project | Description | Live | Stars |
 |--------|-------------|------|-------|
-| [Legal Justice 🧑‍⚖️](https://github.com/devasyarajguru/Legal-Justice-NIH-Hackathon-) | Hackathon Winner Project (NIH'23) | [Live](https://legal-justice-project.vercel.app) | ![Stars](https://img.shields.io/github/stars/devasyarajguru/Legal-Justice-NIH-Hackathon-?style=social) |
-| [Portfolio 🚀](https://github.com/devasyarajguru/Portfolio-Devasya-Rajguru) | Personal portfolio built with React & Tailwind | [Live](https://devasyarajguru.vercel.app) | ![Stars](https://img.shields.io/github/stars/devasyarajguru/Portfolio-Devasya-Rajguru?style=social) |
-| [Dev Connector 💬](#) | A social dev community platform (MERN) | Coming Soon | 🚧 |
+| [Legal Justice ](https://github.com/devasyarajguru/Legal-Justice-NIH-Hackathon-) | Hackathon Winner Project (NIH'23) | [Live](https://legal-justice-project.vercel.app) |
+| [Mightymeld Portfolio ](https://github.com/devasyarajguru/MightyMeld-Portfolio.git) | Freelance | [Live](https://mightymeld-portfolio.vercel.app/) 
+| [CyberSecurity Website ](https://github.com/devasyarajguru/Duradars-website.git) | Freelance | [Live](https://duradars.vercel.app/) 
 
 ---
 
